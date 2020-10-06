@@ -14,17 +14,17 @@
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 </p>
-```
 
 ▀█▀ █▀▀ █▀ █▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀
 ░█░ ██▄ ▄█ ▄█ ██▄ █▀▄ █▀█ █▄▄ ░█░
-```
 
 
 
 
 
-# <p align="center">``` <img src="https://github.com/tesseract-org/about/blob/main/resources/icon.png" alt="Tesseract"/>```
+
+# <p align="center"> ``` <img src="https://github.com/tesseract-org/about/blob/main/resources/icon.png" alt="Tesseract"/> ```
+	
 # <p align="center"> Tesseract </p>
 </p>
 
